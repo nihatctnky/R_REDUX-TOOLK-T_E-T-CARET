@@ -16,3 +16,5 @@ React-router-dom
 React-slick
 
 # Ekran Gif
+
+![Video Screen1734903661040](https://github.com/user-attachments/assets/13e5857c-e6ad-4235-b9d0-959be33751da)
