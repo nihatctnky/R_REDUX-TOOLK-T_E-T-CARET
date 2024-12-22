@@ -5,7 +5,7 @@ Bu proje, React ve Redux Toolkit kullanarak geliştirilmiş basit bir eticaret u
 Uygulama, kullanıcıların ürünleri sepete ekleyip çıkarmasına, sepetin toplam tutarını görüntülemesine olanak sağlar.
 Redux Toolkit, global state yönetimi için kullanılmıştır.
 
-# Kullanılan Kütüphaneler
+#  Kütüphaneler
 
 React-icons
 
